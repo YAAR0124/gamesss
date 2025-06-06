@@ -1,0 +1,14 @@
+body{
+    font-family:"roboto";
+}
+
+div{
+    width:60%;
+    height: 300%;
+
+    border: 5px solid #03071e;
+    border-radius: 20px;
+
+    background: orange;
+    text-align: justify;
+}
